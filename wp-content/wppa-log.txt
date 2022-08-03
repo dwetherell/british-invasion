@@ -1,0 +1,10 @@
+{b}Obs{/b}: on:September 12, 2016 12:32 am: dwetherell: Created path: /Applications/MAMP/htdocs/BI-Wordpress/wp-content/uploads/wppa
+{b}Obs{/b}: on:September 12, 2016 12:32 am: dwetherell: Created path: /Applications/MAMP/htdocs/BI-Wordpress/wp-content/uploads/wppa/thumbs
+{b}Obs{/b}: on:September 12, 2016 12:32 am: dwetherell: Created path: /Applications/MAMP/htdocs/BI-Wordpress/wp-content/wppa-depot
+{b}Obs{/b}: on:September 12, 2016 12:32 am: dwetherell: Created path: /Applications/MAMP/htdocs/BI-Wordpress/wp-content/wppa-depot/dwetherell
+{b}Obs{/b}: on:September 12, 2016 12:32 am: dwetherell: Created path: /Applications/MAMP/htdocs/BI-Wordpress/wp-content/uploads/wppa/watermarks
+{b}Obs{/b}: on:September 12, 2016 12:32 am: dwetherell: Created path: /Applications/MAMP/htdocs/BI-Wordpress/wp-content/uploads/wppa/fonts
+{b}Obs{/b}: on:September 12, 2016 12:32 am: dwetherell: Created path: /Applications/MAMP/htdocs/BI-Wordpress/wp-content/uploads/wppa/temp/
+{b}Obs{/b}: on:September 12, 2016 12:36 am: dwetherell: Created path: /Applications/MAMP/htdocs/BI-Wordpress/wp-content/wppa-pl
+{b}Err{/b}: on:September 12, 2016 12:37 am: dwetherell: Unsupported mime type encountered: 5.
+{b}Err{/b}: on:September 12, 2016 12:37 am: dwetherell: Error inserting photo cat.jpg.

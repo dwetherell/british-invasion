@@ -1,0 +1,75 @@
+[01-Apr-2020 03:45:53 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[01-Apr-2020 03:45:53 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[01-Apr-2020 03:45:53 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php70/lib/php') in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[06-Jul-2020 19:49:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/thebritishinvasi/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-includes/locale.php on line 10
+[20-Jul-2020 10:07:08 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home1/thebritishinvasi/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[29-Jul-2020 06:09:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home1/thebritishinvasi/public_html/wp-includes/update.php:801
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-includes/update.php on line 801
+[30-Jul-2020 21:02:22 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home1/thebritishinvasi/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 03:19:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/thebritishinvasi/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 12:40:20 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home1/thebritishinvasi/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 12:40:27 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home1/thebritishinvasi/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 08:45:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/thebritishinvasi/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 08:45:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/thebritishinvasi/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-includes/feed-atom-comments.php on line 8
+[10-Nov-2020 13:25:08 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[10-Nov-2020 13:25:08 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[10-Nov-2020 13:25:08 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php70/lib/php') in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[17-Feb-2021 13:06:11 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[17-Feb-2021 13:06:11 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[17-Feb-2021 13:06:11 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php70/lib/php') in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[23-Feb-2021 02:06:59 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[23-Feb-2021 02:06:59 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[23-Feb-2021 02:06:59 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php70/lib/php') in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[02-May-2021 05:43:31 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[02-May-2021 05:43:31 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[02-May-2021 05:43:31 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php70/lib/php') in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[02-Jul-2021 03:43:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/thebritishinvasi/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-includes/locale.php on line 10
+[02-Jul-2021 18:46:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home1/thebritishinvasi/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[17-Oct-2021 21:33:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/thebritishinvasi/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-includes/locale.php on line 10
+[18-Oct-2021 04:37:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home1/thebritishinvasi/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[27-Jan-2022 05:05:57 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[27-Jan-2022 05:05:57 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[27-Jan-2022 05:05:57 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[27-Jan-2022 05:05:57 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[27-Jan-2022 05:05:57 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[10-Feb-2022 11:05:24 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[10-Feb-2022 11:05:24 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[10-Feb-2022 11:05:24 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[10-Feb-2022 11:05:24 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[10-Feb-2022 11:05:24 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[19-Mar-2022 12:35:34 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[19-Mar-2022 12:35:34 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[19-Mar-2022 12:35:34 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[19-Mar-2022 12:35:34 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[19-Mar-2022 12:35:34 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[05-Jul-2022 00:32:47 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[05-Jul-2022 00:32:47 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[05-Jul-2022 00:32:47 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[05-Jul-2022 00:32:47 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8
+[05-Jul-2022 00:32:47 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/thebritishinvasi/public_html/wp-includes/functions.php on line 8

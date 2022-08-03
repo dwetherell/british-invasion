@@ -1,0 +1,80 @@
+[27-Jan-2020 11:26:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[07-May-2021 05:57:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[07-May-2021 13:23:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[09-Jun-2021 13:26:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[13-Jun-2021 06:12:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[22-Sep-2021 09:18:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[29-Nov-2021 09:21:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[27-Dec-2021 06:18:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[08-Jan-2022 19:00:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[17-Jan-2022 01:07:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[01-Feb-2022 02:27:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[01-Feb-2022 02:27:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[24-Feb-2022 11:01:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[19-Apr-2022 17:41:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[24-Apr-2022 08:50:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[24-Apr-2022 08:50:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[30-Apr-2022 13:03:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/index.php on line 17
+[16-May-2022 05:06:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[28-May-2022 18:04:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[23-Jul-2022 13:07:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/thebritishinvasi/public_html/wp-content/themes/twentynineteen/404.php on line 12
